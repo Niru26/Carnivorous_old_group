@@ -8,7 +8,6 @@ while trigger:
     if len(str(ticket_number)) != 6:
         ticket_number = int(input("Enter 6 digits number: "))
     else:
-
         right_part_sum = 0
         left_part_sum = 0
         total_sum = 0
