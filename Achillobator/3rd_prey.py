@@ -31,17 +31,3 @@ while trigger:
             print("Bad luck")
 
         trigger = False
-
-
-# Draft
-    # right_part = ticket_number % 1000
-    # left_part = ticket_number // 1000
-    # devider = 1
-    # right_term = right_part % 10
-    # right_part //= 10
-    # right_part_sum += right_term
-    # left_term = left_part // (devider)
-    # left_part_sum += left_term
-    # print(f"LT - {left_term}, LT sum - {left_part_sum}")
-
-    # print(f"RP - {right_part_sum}, LP - {left_part_sum}")
