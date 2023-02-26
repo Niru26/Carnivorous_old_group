@@ -18,8 +18,6 @@ while trigger:
         else:
             print("Can't break into two pieces")
 
-        print(3 % 1)
-
     trigger = False
 
     # or (n == 1 or m == 1)
