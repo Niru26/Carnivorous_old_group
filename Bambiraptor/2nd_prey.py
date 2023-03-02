@@ -1,5 +1,5 @@
 # Homework 2 by Rudakov N.
-# Task 10
+# Task 12
 a = int(input())
 b = int(input())
 
